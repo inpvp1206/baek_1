@@ -1,0 +1,51 @@
+name: baek_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  xml: ^6.5.0
+  path_drawing: ^1.0.1
+  flutter_svg: ^2.0.10+1
+  dropdown_textfield: ^1.0.8
+  http: ^1.2.1
+  xml2json: ^6.2.3
+  intl: ^0.19.0
+  table_calendar: ^3.1.1
+  firebase_core: ^2.31.0
+  cloud_firestore: ^4.17.3
+  firebase_core_web: ^2.17.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+     - images/a.svg
+     - images/b.svg
+     - images/c.svg
+     - images/d.svg
+     - images/e.svg
+     - images/baek.svg
+     - images/c.png
+     - images/d.png
+     - images/e.png
+     - images/1f.png
+     - images/2f.png
+     - images/3f.png
+     - images/4f.png
+     - images/h1.png
+     - images/h2.png
+     - images/h3.png
+     - images/def.png
+     - images/m.png
+     - images/h.png
+     - images/s.png
+
